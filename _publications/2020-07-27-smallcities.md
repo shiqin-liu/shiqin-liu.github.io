@@ -2,7 +2,7 @@
 title: "Entrepreneurship in Small Cities: Evidence From U.S. Micropolitan Areas"
 collection: publications
 permalink: /publication/2020-07-27-smallcities
-#excerpt: 'This article presents the spatial patterns of general and high-tech start-up rates and explores regional factors associated with entrepreneurship in U.S. micropolitan areas.'
+excerpt: 'This article presents the spatial patterns of general and high-tech start-up rates and explores regional factors associated with entrepreneurship in U.S. micropolitan areas.'
 date: 2020-07-27
 venue: 'Economic Development Quarterly'
 paperurl: 'https://doi.org/10.1177/0891242420941927'
