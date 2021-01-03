@@ -11,5 +11,3 @@ citation: 'Liu S, Qian H, Haynes KE. Entrepreneurship in Small Cities: Evidence 
 This article presents the spatial patterns of general and high-tech start-up rates and explores regional factors associated with entrepreneurship in U.S. micropolitan areas.
 
 [Download paper here](https://doi.org/10.1177/0891242420941927)
-
-Recommended citation: Liu S, Qian H, Haynes KE. Entrepreneurship in Small Cities: Evidence From U.S. Micropolitan Areas. <i>Economic Development Quarterly<i>. July 2020. doi:10.1177/0891242420941927.
